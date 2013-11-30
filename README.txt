@@ -1,65 +1,22 @@
-Doom 3 BFG Edition GPL Source Code
-==================================
+======================================
+=== Derelict Engine for Doom 3 BFG ===
+======================================
 
-This file contains the following sections:
+OVERVIEW
+========
 
-GENERAL NOTES
-LICENSE
+"Derelict Engine" is an humble attempt for making a source port for Doom 3 BFG Edition.
 
-GENERAL NOTES
-=============
-
-Game data and patching:
------------------------
-
-This source release does not contain any game data, the game data is still
-covered by the original EULA and must be obeyed as usual.
-
-You must patch the game to the latest version.
-
-Note that Doom 3 BFG Edition is available from the Steam store at
-http://store.steampowered.com/app/208200/
+It's currently being developed by Daniel "GaciX" Gacitua for educational purposes, features will be added soon.
 
 
-Compiling on win32:
--------------------
 
-A project file for Microsoft Visual Studio 2010 is provided in neo\doom3.sln
-We expect the solution file is compatible with the Express releases
+CONTACT
+=======
 
-You will need the Microsoft DirectX SDK installed as well.
-If it does not reside in "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
-you will need to update the project files accordingly.
+Daniel "GaciX" Gacitua
+<gacix[at]riseup[dot]net>
 
-
-Steam:
-------
-The Doom 3 BFG Edition GPL Source Code release does not include functionality for integrating with 
-Steam.  This includes roaming profiles, achievements, leaderboards, matchmaking, the overlay, or
-any other Steam features.
-
-
-Bink:
------
-
-The Doom 3 BFG Edition GPL Source Code release does not include functionality for rendering Bink Videos.
-
-
-Back End Rendering of Stencil Shadows:
---------------------------------------
-
-The Doom 3 BFG Edition GPL Source Code release does not include functionality enabling rendering
-of stencil shadows via the "depth fail" method, a functionality commonly known as "Carmack's Reverse".
-
-
-Other platforms, updated source code, security issues:
-------------------------------------------------------
-
-If you have obtained this source code several weeks after the time of release,
-it is likely that you can find modified and improved versions of the engine in
-various open source projects across the internet.
-
-Depending what is your interest with the source code, those may be a better starting point.
 
 
 LICENSE

@@ -1,0 +1,5 @@
+build*
+
+*.sdf
+
+Doom3BFG.exe
